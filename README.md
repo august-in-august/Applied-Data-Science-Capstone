@@ -41,6 +41,8 @@ Finial Project of Coursera Data Science Project
 
 [IBM-DS0321EN-SkillsNetwork_labs_module_3_lab_jupyter_launch_site_location.jupyterlite-2.ipynb](https://github.com/timfree/Applied-Data-Science-Capstone/blob/main/IBM-DS0321EN-SkillsNetwork_labs_module_3_lab_jupyter_launch_site_location.jupyterlite-2.ipynb)
 
+if the result of ipynb not fully sbowed, please download html file to check the rendered results of ipynb file 
+[IBM-DS0321EN-SkillsNetwork_labs_module_3_lab_jupyter_launch_site_location.jupyterlite-2.html](https://github.com/timfree/Applied-Data-Science-Capstone/blob/main/IBM-DS0321EN-SkillsNetwork_labs_module_3_lab_jupyter_launch_site_location.jupyterlite-2.html)
  
  ### **Work with Plotly and Dash to create a Dash board**
 
