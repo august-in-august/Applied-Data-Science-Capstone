@@ -2,7 +2,7 @@
 Finial Project of Coursera Data Science Project
 
 
-## Week 1
+## Week 1 - Introduction
 
 ### **Complete the Data Collection API Lab**
 
@@ -20,7 +20,7 @@ Finial Project of Coursera Data Science Project
 
 ---
 
-## Week 2
+## Week 2 -  Exploratory data analysis (EDA)
 
 ### Exploratory Data Analysis using SQL
 
@@ -35,7 +35,7 @@ Finial Project of Coursera Data Science Project
 
 ---
 
-## Week 3
+## Week 3 - Interactive Visual Analytics and Dashboards
 
 ### **work with Folium map to add information to map** 
 
