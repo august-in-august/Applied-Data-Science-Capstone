@@ -37,12 +37,12 @@ Finial Project of Coursera Data Science Project
 
 ## Week 3
 
-work with Folium map to add information to map 
+### **work with Folium map to add information to map** 
 
 [IBM-DS0321EN-SkillsNetwork_labs_module_3_lab_jupyter_launch_site_location.jupyterlite-2.ipynb](https://github.com/timfree/Applied-Data-Science-Capstone/blob/main/IBM-DS0321EN-SkillsNetwork_labs_module_3_lab_jupyter_launch_site_location.jupyterlite-2.ipynb)
 
  
- Work with Plotly and Dash to create a Dash board
+ ### **Work with Plotly and Dash to create a Dash board**
 
 [spacex_dash_app.py](https://github.com/timfree/Applied-Data-Science-Capstone/blob/main/spacex_dash_app.py)
 
